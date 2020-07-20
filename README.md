@@ -4,6 +4,7 @@
 ## Grid
 > Candify.
 
+![](candify.png)
 
 ## Flexbox
 
