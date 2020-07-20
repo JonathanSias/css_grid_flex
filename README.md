@@ -2,6 +2,8 @@
 > Alguns pequenos projetos utilizando cada um deles.
 
 ## Grid
+> Candify.
+
 
 ## Flexbox
 
