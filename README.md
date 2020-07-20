@@ -2,7 +2,7 @@
 > Alguns pequenos projetos utilizando cada um deles.
 
 ## Grid
-> Candify.
+> Candify, DesignCourse project.
 
 ![](candify.png)
 
